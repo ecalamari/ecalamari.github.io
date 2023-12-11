@@ -665,7 +665,7 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 60%;
 		}
 
 			.image.left img, .image.right img {
@@ -1158,7 +1158,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/IMG_9897.jpg");
+			background-image: url("../../images/IMG_8561.jpg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
